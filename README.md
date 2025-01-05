@@ -1,3 +1,14 @@
+
+
+
+i have converted figma UI/UX design into coding website    
+
+Link of figma design is: https://www.figma.com/design/mVUMVyiaFmo7T9lFW1mOvZ/first-web-design-(Copy)?node-id=0-1&p=f&t=i21hYuo5CkYCtdko-0 
+
+
+i Have used Nextjs with Tailwind css
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
