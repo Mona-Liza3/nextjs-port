@@ -9,6 +9,11 @@ Link of figma design is: https://www.figma.com/design/mVUMVyiaFmo7T9lFW1mOvZ/fir
 i Have used Nextjs with Tailwind css
 
 
+
+ Deployment Link: https://portfoliofigma0.netlify.app
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
